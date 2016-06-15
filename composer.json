@@ -1,0 +1,18 @@
+{
+  "name": "elementareteilchen/typoscriptconditions",
+  "type": "typo3-cms-extension",
+  "version": "0.9.0",
+  "description": "collection of useful TypoScript conditions",
+  "require": {
+    "typo3/cms-core": "^7.6.0"
+  },
+  "replace": {
+    "typoscriptconditions": "self.version",
+    "typo3-ter/typoscriptconditions": "self.version"
+  },
+  "autoload": {
+    "psr-4": {
+      "ElementareTeilchen\\Typoscriptconditions\\": "Classes/"
+    }
+  }
+}
