@@ -16,15 +16,15 @@ $EM_CONF[$_EXTKEY] = array(
 	'category' => 'misc',
 	'author' => 'Franz Kugelmann',
 	'author_email' => 'franz.kugelmann@elementare-teilchen.de',
-	'state' => 'beta',
+	'state' => 'stable',
 	'internal' => '',
 	'uploadfolder' => '0',
 	'createDirs' => '',
 	'clearCacheOnLoad' => 0,
-	'version' => '0.9',
+	'version' => '0.9.1',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '7.6.0-7.6.99',
+			'typo3' => '7.6.0-8.7.99',
 		),
 		'conflicts' => array(
 		),

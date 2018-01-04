@@ -1,10 +1,10 @@
 {
   "name": "elementareteilchen/typoscriptconditions",
   "type": "typo3-cms-extension",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "collection of useful TypoScript conditions",
   "require": {
-    "typo3/cms-core": "^7.6.0"
+    "typo3/cms-core": "^7.6|^8.7"
   },
   "replace": {
     "typoscriptconditions": "self.version",
