@@ -2,7 +2,7 @@
   "name": "elementareteilchen/typoscriptconditions",
   "type": "typo3-cms-extension",
   "license": "GPL-2.0+",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "collection of useful TypoScript conditions",
   "require": {
     "typo3/cms-core": "^7.6|^8.7"
