@@ -2,13 +2,12 @@
   "name": "elementareteilchen/typoscriptconditions",
   "type": "typo3-cms-extension",
   "license": "GPL-2.0+",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "collection of useful TypoScript conditions",
   "require": {
     "typo3/cms-core": "^7.6|^8.7"
   },
   "replace": {
-    "typoscriptconditions": "self.version",
     "typo3-ter/typoscriptconditions": "self.version"
   },
   "autoload": {
